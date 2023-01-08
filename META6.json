@@ -1,0 +1,20 @@
+{
+   "depends" : [],
+   "version" : "0.0.1",
+   "perl" : "6.d",
+   "description" : "blah blah blah",
+   "name" : "Vim::Configurator",
+   "authors" : [
+      "Steve Dondley"
+   ],
+   "tags" : [],
+   "resources" : [],
+   "license" : "Artistic-2.0",
+   "test-depends" : [],
+   "auth" : "zef:sdondley",
+   "provides" : {
+      "Vim::Configurator" : "lib/Vim/Configurator.rakumod"
+   },
+   "build-depends" : [],
+   "source-url" : "https://github.com/sdondley/Vim-Configurator.git"
+}

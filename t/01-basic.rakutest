@@ -1,0 +1,6 @@
+use Test;
+use Vim::Configurator;
+
+pass "replace me";
+
+done-testing;
